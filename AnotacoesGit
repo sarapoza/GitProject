@@ -19,6 +19,6 @@ mv repositorioatual novonomepararepositorio (altera o nome do repositorio)
 
 git branch - visualiza as branchs existentes
 
-
+git checkout nomeBranch
 
 
