@@ -15,5 +15,7 @@ git remote add origin git@github.com:usuario/AnotacoesGit.git
 
 --
 
-exercicio de git
+mv repositorioatual novonomepararepositorio (altera o nome do repositorio)
+
+
 
