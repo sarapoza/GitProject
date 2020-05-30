@@ -1,0 +1,17 @@
+instalar git
+sudo apt-get install git
+
+git add nomedoarquivo (adiciona o arq ou proj no git)
+
+git commit -m "mensagem no commit"
+(commita seu proj/cód/arq no git)
+
+--configuração para setar username e email para todos os commits
+git config --global user.name "usuario"
+
+git config --global user.mail "teste@gmail.com"
+
+git remote add origin git@github.com:usuario/AnotacoesGit.git
+
+--
+
