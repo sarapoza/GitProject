@@ -21,5 +21,5 @@ git branch - visualiza as branchs existentes
 
 git checkout nomeBranch
 
-
+git checkout -b nomeBranch - cria e já entra na branch
 
