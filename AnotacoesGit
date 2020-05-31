@@ -23,3 +23,5 @@ git checkout nomeBranch
 
 git checkout -b nomeBranch - cria e já entra na branch
 
+git rebase - aplica o merge entre branchs quando há menos risco de conflitos, exemplo, poucas alterações de código ou adição de novos arquivos
+
